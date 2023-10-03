@@ -48,5 +48,4 @@ def answerCall(caller_code, sameAreaCode, cur_time):
         return True
 
 if __name__ == '__main__':
-    print(answerCall("U", True, "07:00"))
     pass # remove or comment out this line if you wish to test the function
